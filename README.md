@@ -3,7 +3,7 @@ EXAMEN BOOTSTRAP AOUT 2025
 
 # Avant de commencer le travail clonez le projet et créez une branche ensuite commencer à travailler sur votre Branche. Si vous terminez pusher sur votre Branche.
 
-# Épreuve Pratique – Module Bootstrap 5
+# Épreuve Pratique – Module Bootstrap 5 - DUREE : 3H
 Consignes générales :
 
 Utiliser Bootstrap 5 uniquement **(pas de CSS personnalisé sauf si demandé)**.
